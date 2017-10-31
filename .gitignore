@@ -13,3 +13,7 @@ CNN_*
 *.pyc
 /__pycache__
 _config.yml
+
+
+
+/results/**/
